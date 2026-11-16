@@ -1,0 +1,15 @@
+package com.battlecry.exported
+{
+   import com.lachhhEngine.games.animation.Animation;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol4692")]
+   public dynamic class WALKATTACK_BALISTA extends Animation
+   {
+      
+      public function WALKATTACK_BALISTA()
+      {
+         super();
+      }
+   }
+}
+

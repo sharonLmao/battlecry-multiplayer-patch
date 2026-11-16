@@ -1,0 +1,15 @@
+package com.battlecry.exported
+{
+   import com.lachhhEngine.games.animation.Animation;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol4825")]
+   public dynamic class RELOAD_AUTOCATAPULT extends Animation
+   {
+      
+      public function RELOAD_AUTOCATAPULT()
+      {
+         super();
+      }
+   }
+}
+

@@ -1,0 +1,4 @@
+# Adobe's standalone Flash player is not ours to redistribute - download it yourself
+dist/flashplayer_sa.exe
+# runtime logs
+server/**/_pio_log.txt
